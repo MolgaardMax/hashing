@@ -10,3 +10,4 @@ public interface Dictionary<K, V> {
 
     boolean isEmpty();
 }
+//
